@@ -1,5 +1,7 @@
 # Rex.AspNetCore.Mvc.Extensions
 
+## 简介
+内部开发使用
 
 ## 目录
 * [更新日志](CHANGELOG.md "更新日志")（2020.5.1）
